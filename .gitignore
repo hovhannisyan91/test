@@ -1,3 +1,10 @@
+#my personal ingores
+README.pdf
+testfolder/
+
+# ignoring all the csv files
+# **.csv 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
