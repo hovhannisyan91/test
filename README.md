@@ -1,10 +1,21 @@
-# Test of Lisa
+# Test of Tosin
+
+## Steps 
+
+### START
+
+Creating a github repo included `readme.md` and `.gitignore`
 
 
-This is just a demo for creating a GitHub repo and testing following commands:
+### Clone
 
-- git clone
-- git add
-- git commit
-- etc
+```bash 
+git clone https://github.com/hovhannisyan91/test.git
+```
+Go to t he git directory: test
 
+```bash 
+cd test
+```
+
+### Add new file with terminal
