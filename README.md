@@ -35,3 +35,12 @@ git commit -m  "you commit"
 ```bash 
 git push
 ```
+
+
+# Python Code
+
+```python 
+for i in list:
+    print(i) 
+```
+
