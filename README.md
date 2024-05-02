@@ -66,3 +66,11 @@ Clone [this](https://github.com/hovhannisyan91/test.git) repo
 # Pictures
 
 ![please fixt the path](https://images.pexels.com/photos/3016350/pexels-photo-3016350.jpeg?cs=srgb&dl=pexels-pierre-blache-651604-3016350., 'Something')
+
+
+# ignoring already pushed files
+
+
+```bash
+git rm -r --cached .
+```
