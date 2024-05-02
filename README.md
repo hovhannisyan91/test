@@ -19,3 +19,19 @@ cd test
 ```
 
 ### Add new file with terminal
+
+```bash 
+git add . or git add filename
+```
+
+### Commit with terminal
+
+```bash 
+git commit -m  "you commit"
+```
+
+### Push to remote
+
+```bash 
+git push
+```
