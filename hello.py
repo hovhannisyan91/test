@@ -1,2 +1,4 @@
-for i in list:
-    print(i) 
+import pandas as pd
+
+print(f'pandas version: {pd.__version__}')
+
