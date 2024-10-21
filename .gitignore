@@ -2,6 +2,7 @@
 README.pdf
 testfolder/
 venv_alice
+hello.py
 # ignoring all the csv files
 # **.csv 
 
