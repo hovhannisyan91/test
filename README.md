@@ -1,4 +1,5 @@
-# Test of Tosin
+# Test of Naveen
+
 
 ## Steps 
 
@@ -46,7 +47,7 @@ for i in list:
 
 ## Hyperlink
 
-Clone [this](https://github.com/hovhannisyan91/test.git) repo
+*Clone* [this](https://github.com/hovhannisyan91/test.git) repo
 
 ## Ordered List
 
